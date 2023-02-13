@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nama saya Renalda Salwa Siva. <br>Saat ini, saya berstatus sebagai Mahasiswi  di Universitas Tadulako Program studi Teknik Informatika. <br>Saya memiliki minat di bidang teknologi, Data Analyst, Design dan juga Kecerdasan Buatan
+Nama saya Renalda Salwa Siva. <br>Saat ini, saya berstatus sebagai Mahasiswi  di Universitas Tadulako Program studi Teknik Informatika. <br>Saya memiliki minat di bidang teknologi, Data Analyst, Design,Kecerdasan Buatan dan juga Internet Of Things
 
 
 ## 🌐 Socials:
