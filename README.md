@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm Renalda Salwa Siva. <br> saya  sebagai Mahasiswi  di Universitas Tadulako Program studi Teknik Informatika. <br> memiliki minat di bidang teknologi, Data Analyst, Design,Kecerdasan Buatan dan juga Internet Of Things
+Hi, i'm Renalda Salwa Siva. <br>  Mahasiswi  di Universitas Tadulako Program studi Teknik Informatika. <br> memiliki minat di bidang teknologi, Data Analyst, Design,Kecerdasan Buatan dan juga Internet Of Things
 
 
 ## 🌐 Socials:
